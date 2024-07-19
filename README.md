@@ -17,8 +17,6 @@ The N-Queen problem is a classic example of a constraint satisfaction problem in
 
 ![N-Queen-visualisation](visualisation.gif)
 
-**<p align='center'>You can find the website live <a href="https://nqueen.netlify.app/">here</a></p>**
-
 
 ## Features
 
