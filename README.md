@@ -9,7 +9,6 @@ Visualize-N-Queen is a web-based tool designed to help users understand and solv
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
